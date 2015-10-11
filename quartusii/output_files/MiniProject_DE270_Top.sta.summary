@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'VIDEO_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 6.136
+TNS   : 0.000
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : 7.518
+TNS   : 0.000
+
+Type  : Slow Model Setup 'VIDEO_PLL_inst|altpll_component|pll|clk[2]'
+Slack : 10.088
+TNS   : 0.000
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'VIDEO_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'VIDEO_PLL_inst|altpll_component|pll|clk[2]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'VIDEO_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 17.873
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'VIDEO_PLL_inst|altpll_component|pll|clk[2]'
+Slack : 47.873
+TNS   : 0.000
+
+Type  : Fast Model Setup 'VIDEO_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 13.991
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : 14.024
+TNS   : 0.000
+
+Type  : Fast Model Setup 'VIDEO_PLL_inst|altpll_component|pll|clk[2]'
+Slack : 15.429
+TNS   : 0.000
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : -0.063
+TNS   : -0.119
+
+Type  : Fast Model Hold 'VIDEO_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'VIDEO_PLL_inst|altpll_component|pll|clk[2]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'VIDEO_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 17.873
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'VIDEO_PLL_inst|altpll_component|pll|clk[2]'
+Slack : 47.873
+TNS   : 0.000
+
+------------------------------------------------------------

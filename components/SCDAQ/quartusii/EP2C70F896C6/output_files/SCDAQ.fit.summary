@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Apr 19 20:46:07 2015
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : SCDAQ
+Top-level Entity Name : SCDAQ
+Family : Cyclone II
+Device : EP2C70F896C6
+Timing Models : Final
+Total logic elements : 5,044 / 68,416 ( 7 % )
+    Total combinational functions : 3,018 / 68,416 ( 4 % )
+    Dedicated logic registers : 3,960 / 68,416 ( 6 % )
+Total registers : 3960
+Total pins : 80 / 622 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,152,000 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

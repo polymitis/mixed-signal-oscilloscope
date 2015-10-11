@@ -1,0 +1,29 @@
+Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_tb.sv {1 {vlog -work work -sv Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_tb.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SCDAQ_tb
+
+Top level modules:
+	SCDAQ_tb
+
+} {} {}} Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ.v {1 {vlog -work work Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SCDAQ
+
+Top level modules:
+	SCDAQ
+
+} {} {}} Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_BUF.v {1 {vlog -work work Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_BUF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SCDAQ_BUF
+
+Top level modules:
+	SCDAQ_BUF
+
+} {} {}} Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_CTP.v {1 {vlog -work work Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_CTP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SCDAQ_CTP
+
+Top level modules:
+	SCDAQ_CTP
+
+} {} {}}

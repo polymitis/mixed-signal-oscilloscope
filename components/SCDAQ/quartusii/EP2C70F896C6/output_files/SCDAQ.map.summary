@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Apr 19 20:45:16 2015
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : SCDAQ
+Top-level Entity Name : SCDAQ
+Family : Cyclone II
+Total logic elements : 6,939
+    Total combinational functions : 3,018
+    Dedicated logic registers : 3,960
+Total registers : 3960
+Total pins : 80
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

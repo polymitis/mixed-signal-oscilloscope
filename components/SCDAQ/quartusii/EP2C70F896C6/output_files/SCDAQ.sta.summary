@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'DAQ_Clock'
+Slack : -4.845
+TNS   : -11934.613
+
+Type  : Slow Model Setup 'RDO_Clock'
+Slack : -3.878
+TNS   : -53.251
+
+Type  : Slow Model Setup 'CFG_Clock'
+Slack : 11.881
+TNS   : 0.000
+
+Type  : Slow Model Hold 'CFG_Clock'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'RDO_Clock'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'DAQ_Clock'
+Slack : 0.520
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'DAQ_Clock'
+Slack : 7.000
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CFG_Clock'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'RDO_Clock'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Fast Model Setup 'DAQ_Clock'
+Slack : -0.202
+TNS   : -0.203
+
+Type  : Fast Model Setup 'RDO_Clock'
+Slack : 0.293
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CFG_Clock'
+Slack : 16.129
+TNS   : 0.000
+
+Type  : Fast Model Hold 'CFG_Clock'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'RDO_Clock'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'DAQ_Clock'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'DAQ_Clock'
+Slack : 7.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CFG_Clock'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'RDO_Clock'
+Slack : 9.000
+TNS   : 0.000
+
+------------------------------------------------------------

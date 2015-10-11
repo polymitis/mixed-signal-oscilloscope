@@ -1,0 +1,43 @@
+Z:/VMW764/ELEC5563M/MiniProject/hdl/PlotSignal.v {1 {vlog -work work Z:/VMW764/ELEC5563M/MiniProject/hdl/PlotSignal.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PlotSignal
+
+Top level modules:
+	PlotSignal
+
+} {} {}} Z:/VMW764/ELEC5563M/MiniProject/hdl/MiniProject_DE270_tb.v {1 {vlog -work work Z:/VMW764/ELEC5563M/MiniProject/hdl/MiniProject_DE270_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MiniProject_DE270_tb
+
+Top level modules:
+	MiniProject_DE270_tb
+
+} {} {}} Z:/VMW764/ELEC5563M/MiniProject/components/DSGEN/hdl/DSGEN.v {1 {vlog -work work Z:/VMW764/ELEC5563M/MiniProject/components/DSGEN/hdl/DSGEN.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DSGEN
+
+Top level modules:
+	DSGEN
+
+} {} {}} Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_CTP.v {1 {vlog -work work Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_CTP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SCDAQ_CTP
+
+Top level modules:
+	SCDAQ_CTP
+
+} {} {}} Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ.v {1 {vlog -work work Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SCDAQ
+
+Top level modules:
+	SCDAQ
+
+} {} {}} Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_BUF.v {1 {vlog -work work Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_BUF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SCDAQ_BUF
+
+Top level modules:
+	SCDAQ_BUF
+
+} {} {}}

@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Altera\13.0sp1
+vDSGEN
+Z1 II@`WOzEGcY>ZcJja<;o^L0
+Z2 VU6ABm5]CRh^FkGiFCS49n2
+Z3 dZ:\VMW764\ELEC5563M\MiniProject\sim
+Z4 w1430667137
+Z5 8Z:/VMW764/ELEC5563M/MiniProject/components/DSGEN/hdl/DSGEN.v
+Z6 FZ:/VMW764/ELEC5563M/MiniProject/components/DSGEN/hdl/DSGEN.v
+L0 5
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/MiniProject/components/DSGEN/hdl/DSGEN.v|
+Z9 o-work work -O0
+Z10 n@d@s@g@e@n
+Z11 !s100 k_:DGV@S`4OlUA?UNUknD1
+Z12 !s108 1430796047.050000
+Z13 !s107 Z:/VMW764/ELEC5563M/MiniProject/components/DSGEN/hdl/DSGEN.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMiniProject_DE270_tb
+!i10b 1
+!s100 4eQG0S?;@RlE8Cc:mXYOa2
+IjN790PIS]TNN2kLOB<mKg1
+Z14 VIzCV^1D6S^hfYA3aXW70J0
+R3
+w1430796634
+Z15 8Z:/VMW764/ELEC5563M/MiniProject/hdl/MiniProject_DE270_tb.v
+Z16 FZ:/VMW764/ELEC5563M/MiniProject/hdl/MiniProject_DE270_tb.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1430796644.054000
+!s107 Z:/VMW764/ELEC5563M/MiniProject/hdl/MiniProject_DE270_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/MiniProject/hdl/MiniProject_DE270_tb.v|
+!s101 -O0
+R9
+Z18 n@mini@project_@d@e270_tb
+vPlotSignal
+Z19 Ie82EXGimi[lH11:46^Y1J2
+Z20 VGV5oT7;Q;5i>L`Gd_GVUd1
+R3
+Z21 w1430759946
+Z22 8Z:/VMW764/ELEC5563M/MiniProject/hdl/PlotSignal.v
+Z23 FZ:/VMW764/ELEC5563M/MiniProject/hdl/PlotSignal.v
+L0 5
+R7
+r1
+31
+Z24 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/MiniProject/hdl/PlotSignal.v|
+R9
+Z25 n@plot@signal
+!i10b 1
+Z26 !s100 F_d?RmjXzhE3m5fDUg>HJ1
+!s85 0
+Z27 !s108 1430796050.800000
+Z28 !s107 Z:/VMW764/ELEC5563M/MiniProject/hdl/PlotSignal.v|
+!s101 -O0
+vSCDAQ
+Z29 IO;Fi<RT@6:1E4<i@T=VVG1
+Z30 VmWB5ObDVLfOYCde>Nhg6?1
+R3
+Z31 w1430424541
+Z32 8Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ.v
+Z33 FZ:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ.v
+L0 5
+R7
+r1
+31
+Z34 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ.v|
+R9
+Z35 n@s@c@d@a@q
+Z36 !s100 J[bPG[S4zKH4[<emK5NUU0
+Z37 !s108 1430424565.172000
+Z38 !s107 Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSCDAQ_BUF
+Z39 I;J8gihiOzmgDVB1iabjjb1
+Z40 V]:h6m2CFSU7hKLG0HjUZ20
+R3
+Z41 w1430424855
+Z42 8Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_BUF.v
+Z43 FZ:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_BUF.v
+L0 5
+R7
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_BUF.v|
+R9
+Z45 n@s@c@d@a@q_@b@u@f
+Z46 !s100 UCG:26m1dC<?:`UizUM0L3
+Z47 !s108 1430424923.749000
+Z48 !s107 Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_BUF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSCDAQ_CTP
+Z49 IU3U05A?km7;MNK=>Z>VzR2
+Z50 V1Ld`Go?]2;SbU<XD19I`@2
+R3
+Z51 w1430425829
+Z52 8Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_CTP.v
+Z53 FZ:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_CTP.v
+L0 5
+R7
+r1
+31
+Z54 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_CTP.v|
+R9
+Z55 n@s@c@d@a@q_@c@t@p
+Z56 !s100 He@dnShz=[R_VT]U9b=Xe1
+Z57 !s108 1430425844.499000
+Z58 !s107 Z:/VMW764/ELEC5563M/MiniProject/components/SCDAQ/hdl/SCDAQ_CTP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSignalGenerator
+Z59 IUVQAjWKlYjb2`m53T^4?62
+Z60 VTE@kEL<5IR`6m;9<nhKD91
+R3
+Z61 w1430408280
+R5
+R6
+L0 8
+R7
+r1
+31
+R9
+Z62 n@signal@generator
+Z63 !s100 :hGF3P<odX?b38bRK2`@j1
+Z64 !s108 1430410897.393000
+R13
+R8
+!i10b 1
+!s85 0
+!s101 -O0

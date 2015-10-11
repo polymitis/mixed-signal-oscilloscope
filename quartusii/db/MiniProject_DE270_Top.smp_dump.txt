@@ -1,0 +1,99 @@
+
+State Machine - |MiniProject_DE270_Top|VGA_LCD_Driver:VGA_LCD_Driver_inst|VGA_V_STATE
+Name VGA_V_STATE.FRONT VGA_V_STATE.IDLE VGA_V_STATE.BACK VGA_V_STATE.DISP VGA_V_STATE.WAIT 
+VGA_V_STATE.DISP 0 0 0 0 0 
+VGA_V_STATE.BACK 0 0 1 1 0 
+VGA_V_STATE.IDLE 0 1 0 1 0 
+VGA_V_STATE.FRONT 1 0 0 1 0 
+VGA_V_STATE.WAIT 0 0 0 1 1 
+
+State Machine - |MiniProject_DE270_Top|VGA_LCD_Driver:VGA_LCD_Driver_inst|VGA_H_STATE
+Name VGA_H_STATE.FRONT VGA_H_STATE.DISP VGA_H_STATE.BACK VGA_H_STATE.IDLE VGA_H_STATE.WAIT 
+VGA_H_STATE.IDLE 0 0 0 0 0 
+VGA_H_STATE.BACK 0 0 1 1 0 
+VGA_H_STATE.DISP 0 1 0 1 0 
+VGA_H_STATE.FRONT 1 0 0 1 0 
+VGA_H_STATE.WAIT 0 0 0 1 1 
+
+State Machine - |MiniProject_DE270_Top|VGA_LCD_Driver:VGA_LCD_Driver_inst|LCD_V_STATE
+Name LCD_V_STATE.FRONT LCD_V_STATE.IDLE LCD_V_STATE.BACK LCD_V_STATE.DISP LCD_V_STATE.WAIT 
+LCD_V_STATE.DISP 0 0 0 0 0 
+LCD_V_STATE.BACK 0 0 1 1 0 
+LCD_V_STATE.IDLE 0 1 0 1 0 
+LCD_V_STATE.FRONT 1 0 0 1 0 
+LCD_V_STATE.WAIT 0 0 0 1 1 
+
+State Machine - |MiniProject_DE270_Top|VGA_LCD_Driver:VGA_LCD_Driver_inst|LCD_H_STATE
+Name LCD_H_STATE.FRONT LCD_H_STATE.DISP LCD_H_STATE.BACK LCD_H_STATE.IDLE LCD_H_STATE.WAIT 
+LCD_H_STATE.IDLE 0 0 0 0 0 
+LCD_H_STATE.BACK 0 0 1 1 0 
+LCD_H_STATE.DISP 0 1 0 1 0 
+LCD_H_STATE.FRONT 1 0 0 1 0 
+LCD_H_STATE.WAIT 0 0 0 1 1 
+
+State Machine - |MiniProject_DE270_Top|VGA_LCD_Driver:VGA_LCD_Driver_inst|I2S_LCD_Config:u4|mSetup_ST
+Name mSetup_ST.0000 mSetup_ST.0010 mSetup_ST.0001 
+mSetup_ST.0000 0 0 0 
+mSetup_ST.0001 1 0 1 
+mSetup_ST.0010 1 1 0 
+
+State Machine - |MiniProject_DE270_Top|PlotSignal:PlotSignal_inst|State_q
+Name State_q~6 State_q~5 State_q~4 
+State_q.DRAW_ASIG_STATE 0 0 0 
+State_q.DRAW_DSIG_STATE 0 1 1 
+State_q.DRAW_MSIG_STATE 1 0 1 
+
+State Machine - |MiniProject_DE270_Top|SCDAQ:ADC2_SCDAQ_inst|SCDAQ_BUF:SCDAQ_BUF_inst|State_Q
+Name State_Q~4 
+State_Q.DAQ_STATE 0 
+State_Q.RDO_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|SCDAQ:ADC1_SCDAQ_inst|SCDAQ_BUF:SCDAQ_BUF_inst|State_Q
+Name State_Q~4 
+State_Q.DAQ_STATE 0 
+State_Q.RDO_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|ASGEN:ASGEN_inst|State_q
+Name State_q~4 
+State_q.RISING_STATE 0 
+State_q.FALLING_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|SCDAQ:DIG4_SCDAQ_inst|SCDAQ_BUF:SCDAQ_BUF_inst|State_Q
+Name State_Q~4 
+State_Q.DAQ_STATE 0 
+State_Q.RDO_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|SCDAQ:DIG3_SCDAQ_inst|SCDAQ_BUF:SCDAQ_BUF_inst|State_Q
+Name State_Q~4 
+State_Q.DAQ_STATE 0 
+State_Q.RDO_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|SCDAQ:DIG2_SCDAQ_inst|SCDAQ_BUF:SCDAQ_BUF_inst|State_Q
+Name State_Q~4 
+State_Q.DAQ_STATE 0 
+State_Q.RDO_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|SCDAQ:DIG1_SCDAQ_inst|SCDAQ_BUF:SCDAQ_BUF_inst|State_Q
+Name State_Q~4 
+State_Q.DAQ_STATE 0 
+State_Q.RDO_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|DSGEN:DSGEN4_inst|State_q
+Name State_q~4 
+State_q.FALLING_STATE 0 
+State_q.RISING_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|DSGEN:DSGEN3_inst|State_q
+Name State_q~4 
+State_q.FALLING_STATE 0 
+State_q.RISING_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|DSGEN:DSGEN2_inst|State_q
+Name State_q~4 
+State_q.FALLING_STATE 0 
+State_q.RISING_STATE 1 
+
+State Machine - |MiniProject_DE270_Top|DSGEN:DSGEN1_inst|State_q
+Name State_q~4 
+State_q.FALLING_STATE 0 
+State_q.RISING_STATE 1 

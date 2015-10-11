@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May 05 03:02:31 2015
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : MiniProject_DE270_Top
+Top-level Entity Name : MiniProject_DE270_Top
+Family : Cyclone II
+Total logic elements : 15,062
+    Total combinational functions : 7,696
+    Dedicated logic registers : 7,857
+Total registers : 7857
+Total pins : 195
+Total virtual pins : 0
+Total memory bits : 232,448
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

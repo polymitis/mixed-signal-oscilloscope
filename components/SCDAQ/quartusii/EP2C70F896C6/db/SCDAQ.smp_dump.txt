@@ -1,0 +1,10 @@
+
+State Machine - |SCDAQ|SCDAQ_BUF:SCDAQ_BUF_inst|State_Q
+Name State_Q~4 
+State_Q.DAQ_STATE 0 
+State_Q.RDO_STATE 1 
+
+State Machine - |SCDAQ|SCDAQ_CTP:SCDAQ_CTP_inst|State_Q
+Name State_Q~4 
+State_Q.DET_STATE 0 
+State_Q.CFG_STATE 1 

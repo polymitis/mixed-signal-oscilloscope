@@ -1,0 +1,88 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\VMW764\ELEC5563M\MiniProject\components\DAQ\quartusii\simulation\modelsim
+vSCDAQ
+Z1 IO^;LkBe39FUAh?bP<gWFb0
+Z2 VNQ]31BGCe^?7NXjfRaCLJ2
+Z3 dZ:\VMW764\ELEC5563M\components\SCDAQ\sim
+Z4 w1428687238
+Z5 8Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ.v
+Z6 FZ:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ.v
+L0 5
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ.v|
+Z9 o-work work -O0
+Z10 n@s@c@d@a@q
+Z11 !s100 1K1_A9GX<JCCb7lHkCP@N0
+Z12 !s108 1428687296.491000
+Z13 !s107 Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSCDAQ_BUF
+Z14 IG[oVjiIn@BY;f40U>HDLB0
+Z15 V]:h6m2CFSU7hKLG0HjUZ20
+R3
+Z16 w1428685486
+Z17 8Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_BUF.v
+Z18 FZ:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_BUF.v
+L0 5
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_BUF.v|
+R9
+Z20 n@s@c@d@a@q_@b@u@f
+Z21 !s100 k@ZFfNjeKT?bI4i[QlQO32
+Z22 !s108 1428685511.731000
+Z23 !s107 Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_BUF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSCDAQ_CTP
+Z24 !s100 Pad2S4_l6j0ikhPZLL1e;1
+Z25 I6e=c27gf7YajDceAj2AGZ2
+Z26 V]K3YjL[04jR3XMZcYTU[R2
+R3
+Z27 w1428518677
+Z28 8Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_CTP.v
+Z29 FZ:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_CTP.v
+L0 5
+R7
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_CTP.v|
+R9
+Z31 n@s@c@d@a@q_@c@t@p
+Z32 !s108 1428685511.901000
+Z33 !s107 Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_CTP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSCDAQ_tb
+Z34 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 TfG9AIQlV9V@bTIH=N2P^2
+IDU22Ra;8QQ=IA>PP5Z1@X3
+Z35 VF2I`:E?6Jd1D4kSGL0zVY3
+Z36 !s105 SCDAQ_tb_sv_unit
+S1
+R3
+w1428687399
+Z37 8Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_tb.sv
+Z38 FZ:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_tb.sv
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1428687410.671000
+!s107 Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_tb.sv|
+Z39 !s90 -reportprogress|300|-work|work|-sv|Z:/VMW764/ELEC5563M/components/SCDAQ/hdl/SCDAQ_tb.sv|
+!s101 -O0
+Z40 o-work work -sv -O0
+Z41 n@s@c@d@a@q_tb

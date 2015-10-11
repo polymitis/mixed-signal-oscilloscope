@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="VGA_LCD_Driver_DE270_Top">
+		<CBX_INST_ENTRY INSTANCE_NAME="|VGA_LCD_Driver_DE270_Top|VGA_LCD_Driver:vga_driver|line_buffer:LB|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_r8o1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|VGA_LCD_Driver_DE270_Top|VGA_LCD_Driver:vga_driver|screen_buffer:SB|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_o062.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
