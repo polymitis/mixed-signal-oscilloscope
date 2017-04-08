@@ -1,2 +1,2 @@
-# Mixed_Signal_Oscilloscope
-Mixed-Signal Oscilloscope 
+# mixed-signal-oscilloscope
+Mixed-Signal Oscilloscope on Chip
